@@ -17,7 +17,6 @@ This repository contains a collection of projects showcasing the implementation 
 1. Clone the repository:
    ```bash
    git clone https://github.com/emretechno/ARTIFICAL-INTELLIGENCE-JAVA-/tree/main
-   cd Artificial-Intelligence-Projects
 
 ## Features
 
